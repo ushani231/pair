@@ -1,0 +1,62 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbl9ubll4bF9RbXZFdE1CY3JSamRWd0FhMjhrd3xBQ3Jtc0ttM1RrREZMdlh4MUdiT2RubmlOWDF0bVI0RFV2aWU2bW5aaktQOGJadlJvUEx2UHo0N3d4U1VDcXF3NWxvZTlTbklwNGZCUE5XRzdyZE02YmM4bTdudkZfNlFGeUJ5MHZ1XzlUempac0NLTC02cGNOTQ&q=https%3A%2F%2Fgithub.com%2F&v=XX1yBnWCK9k
+Subject: YouTube
+Date: Sat, 1 Nov 2025 14:51:34 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--btYEUuVPPg6z2afI202gOQm1ti8d0hZUAV55UMLOS3----"
+
+
+------MultipartBoundary--btYEUuVPPg6z2afI202gOQm1ti8d0hZUAV55UMLOS3----
+Content-Type: text/html
+Content-ID: <frame-FBBFD664A910242EFF1B655E22D640B0@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbl9ubll4bF9RbXZFdE1CY3JSamRWd0FhMjhrd3xBQ3Jtc0ttM1RrREZMdlh4MUdiT2RubmlOWDF0bVI0RFV2aWU2bW5aaktQOGJadlJvUEx2UHo0N3d4U1VDcXF3NWxvZTlTbklwNGZCUE5XRzdyZE02YmM4bTdudkZfNlFGeUJ5MHZ1XzlUempac0NLTC02cGNOTQ&q=https%3A%2F%2Fgithub.com%2F&v=XX1yBnWCK9k
+
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-9df48854-27c0-4f5c-bf0c-11695cf43944@mhtml.blink" /><link rel="shortcut icon" href="https://www.youtube.com/img/favicon.ico" type="image/x-icon"><link rel="icon" href="https://www.youtube.com/img/favicon_32.png" sizes="32x32"><link rel="icon" href="https://www.youtube.com/img/favicon_48.png" sizes="48x48"><link rel="icon" href="https://www.youtube.com/img/favicon_96.png" sizes="96x96"><link rel="icon" href="https://www.youtube.com/img/favicon_144.png" sizes="144x144"><title>YouTube</title><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"></head><body><div id="redirect-container"><div layout="" horizontal="" auto-vertical="" id="redirect-warning-container"><div id="invalid-token-redirect-warning-icon"></div><h1 id="invalid-token-redirect-warning-text">Are you sure you want to leave YouTube?</h1></div><div id="redirect-main-text">This link is taking you to a site outside of YouTube (<span class="bolded">github.com</span>).</div><div id="redirect-action-container"><a id="redirect-backto-safety-button" role="button" href="https://www.youtube.com/watch?v=XX1yBnWCK9k">Back to YouTube</a><a id="invalid-token-redirect-goto-site-button" role="button" href="https://github.com/">Go To Site</a></div></div></body></html>
+------MultipartBoundary--btYEUuVPPg6z2afI202gOQm1ti8d0hZUAV55UMLOS3----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-9df48854-27c0-4f5c-bf0c-11695cf43944@mhtml.blink
+
+@charset "utf-8";
+
+body { margin: 0px; padding: 0px; border: 0px; font: 12px "YouTube Noto", Roboto, arial, sans-serif; height: 100%; }
+
+a { color: rgb(22, 122, 198); cursor: pointer; text-decoration: none; }
+
+#body-container { background: rgb(255, 255, 255); }
+
+#redirect-container { padding-top: 24px; margin: auto; width: 100%; }
+
+#redirect-warning-container { display: flex; align-items: center; margin: auto; justify-content: center; }
+
+#malicious-redirect-warning-icon { display: block; width: 24px; height: 24px; background-repeat: no-repeat; background-position: center center; background-size: 24px; background-image: url("https://www.gstatic.com/images/icons/material/system/2x/warning_googred_48dp.png"); }
+
+#invalid-token-redirect-warning-icon { display: block; width: 0px; height: 24px; background-repeat: no-repeat; background-position: center center; background-size: 24px; }
+
+#pending-url-redirect-warning-icon { display: block; width: 0px; height: 24px; background-repeat: no-repeat; background-position: center center; background-size: 24px; }
+
+#malicious-redirect-warning-text { margin-left: 10px; font-size: 20px; color: rgb(230, 33, 23); }
+
+#invalid-token-redirect-warning-text { font-size: 20px; color: rgb(0, 0, 0); }
+
+#pending-url-redirect-warning-text { font-size: 20px; color: rgb(0, 0, 0); }
+
+#redirect-main-text { font-size: 18px; padding-top: 18px; width: 90%; margin: auto; text-align: center; color: rgb(136, 136, 136); line-height: 24px; }
+
+#redirect-main-text .bolded { font-weight: bold; }
+
+#redirect-action-container { padding-top: 40px; margin: auto; text-align: center; display: table; }
+
+#malicious-redirect-goto-site-button { color: rgb(136, 136, 136); padding: 20px; text-transform: uppercase; display: block; font-size: 18px; border-radius: 2px; font-weight: 500; }
+
+#invalid-token-redirect-goto-site-button { color: rgb(39, 147, 230); padding: 20px; text-transform: uppercase; display: block; font-size: 18px; border-radius: 2px; font-weight: 500; }
+
+#pending-url-redirect-goto-site-button { color: rgb(39, 147, 230); padding: 20px; text-transform: uppercase; display: block; font-size: 18px; border-radius: 2px; font-weight: 500; }
+
+#redirect-backto-safety-button { color: white; padding: 20px; background-color: rgb(39, 147, 230); border: 0px; text-transform: uppercase; display: block; font-size: 18px; border-radius: 2px; font-weight: 500; }
+
+a:hover { text-decoration: none; }
+------MultipartBoundary--btYEUuVPPg6z2afI202gOQm1ti8d0hZUAV55UMLOS3------
